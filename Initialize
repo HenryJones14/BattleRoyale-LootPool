@@ -5,3 +5,6 @@ data/test3.png
 
 # Text files
 data/test.txt
+
+# Json files
+data/test.json
